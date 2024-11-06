@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @Lindani-Zwide
-- 👀 I’m interested in SOFTWARE DEVELOPMENT ,APPLIED MATHEMATICS and TECH INNOVATIONS
-- 🌱 I’m currently learning SOFTWARE DEVELOPMENT and APPLIED MATHEMATICS
-- 💞️ I’m looking to collaborate on SOFTWARE DEVELOPMENT PROJECTS
-- 📫 How to reach me >email: 222034990@stu.ukzn.ac.za
-                     >Calls/whatsapp: +27763187409
-- 😄 Pronouns: ME,OURS,THIS,ANYTHING
-- ⚡ Fun fact: Learn or perish. The choice is yours.
 
-<!---
-Lindani-Zwide/Lindani-Zwide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring web developer | Front-end enthusiast
+
+Skills: HTML5, CSS3, JavaScript
+
+Portfolio:https://lindani-zwide.github.io/ndwandwePortfolio
+
+Connect:https://www.linkedin.com/in/lindani-mthembu-4a4446318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Let's build something amazing!"
