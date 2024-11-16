@@ -1,7 +1,7 @@
 
-Aspiring web developer | Front-end enthusiast
+Aspiring software developer || Front-end enthusiast
 
-Skills: HTML5, CSS3, JavaScript and more
+Skills: HTML5, CSS, JavaScript,java,c++,python and more
 
 Portfolio:https://lindani-zwide.github.io/ndwandwePortfolio
 
