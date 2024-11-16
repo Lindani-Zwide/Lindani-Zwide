@@ -1,5 +1,5 @@
 
-Aspiring software developer || Front-end enthusiast
+Aspiring software developer || Web-Development enthusiast
 
 Skills: HTML5, CSS, JavaScript,java,c++,python and more
 
