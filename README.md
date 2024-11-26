@@ -1,7 +1,7 @@
 
 Aspiring software developer || Web-Development enthusiast
 
-Skills: HTML5, CSS, JavaScript,java,c++,python and more
+Skills: HTML5, CSS, JAVASCRIPT,JAVA,C++,PYTHON and MORE.
 
 Portfolio:https://lindani-zwide.github.io/ndwandwePortfolio
 
