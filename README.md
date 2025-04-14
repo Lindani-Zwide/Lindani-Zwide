@@ -1,5 +1,5 @@
 
-Aspiring software developer || Web-Development enthusiast
+SOFTWARE DEVELOPER || LOGICIAN
 
 Proficient in : HTML, CSS, JAVASCRIPT,JAVA,C++,PYTHON and MORE.
 
